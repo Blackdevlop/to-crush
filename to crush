@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>ITO NA REQUEST MO YAWA KA</title>
+
+<script type="text/javascript">
+        alert("Please Enter Your Name");
+        }else{
+        alert("Hi" + name + "Good morning");
+        }alert( i love you as a friend putang ina mo ka");
+    
+      }
+
+
+  </script>
+  </head>
